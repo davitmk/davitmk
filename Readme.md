@@ -1,6 +1,6 @@
 ### Tech Stack & Tools
 
-Languages: JavaScript/Typescript, PHP, Python, Bash Script
+Languages: JavaScript/Typescript, PHP, Bash Script
 
 Frameworks: NodeJS, NextJS, ReactJS, VueJS, Ant Design, Laravel, Code-Igniter, Yii
 
